@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    text-align: center;
+    color: #1f1f1f;
+    background-image: url("https://wallpaper.dog/large/10993659.jpg");
+    background-color: rgba(255, 255, 255, 0.8); /* add a transparent white background color */
+  }
+  
+  a {
+    color: hwb(12 0% 0%);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin: 20px;
+    font-family: Impact;
+    color: darkgreen;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+    font-size: 35px;
+    color: #1f1f1f; /* make the text color match the body text color */
+  }
+  
+  p {
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 10px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #1f1f1f; /* make the text color match the body text color */
+  }
+  
+  .established {
+    height: 2px;
+    background-color: darkgreen;
+    margin-top: -20px;
+  }
+  
+  .not {
+    height: 2px;
+    background-color: darkgreen;
+  }
+  
+  .same img {
+    display: block;
+    display: inline-block;
+    width: 50px;
+    margin-top: -18px;
+  }
+  
+  .p img {
+    width: 80px;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  img {
+    width: 200px;
+    margin-top: -5px;
+  }
+  
+  .fan {
+    background-color: rgba(255, 255, 255, 0.8); /* add a transparent white background color */
+    width: 700px;
+    margin: auto;
+    margin-top: -15px;
+    border: 1px solid #1f1f1f; }
